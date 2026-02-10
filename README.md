@@ -50,5 +50,5 @@ This project uses Machine Learning to classify breast cancer tumors as **Benign*
 * Popoola Eninlaloluwa Sharon (<popoolaeninlaloluwa@gmail.com>) - Feature Engineering
 * Sidiq Abdulkadir Akanbi (<sidiqabdulkadir05@gmail.com>) - EDA
 * Zainab Salman (<zainabadebisi007@gmail.com>) - EDA, Model Training, D&D Team (Research-based Report)
-
+* Dabuo Jacob Ngmenlanaa (<d.ja84@yahoo.com>) - Model Deployment, Report Editing
 Built as part of the Data Science Capstone Project for the **Awibi Medtech Learning Initiative 2025**.
