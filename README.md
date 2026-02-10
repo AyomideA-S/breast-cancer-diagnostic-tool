@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Container-2496ED?logo=docker&logoColor=white)
+![Accuracy](https://img.shields.io/badge/Accuracy-97.4%25-green)
+
 # Breast Cancer Diagnostic Tool 🎗️
 
 ## Project Overview
@@ -38,6 +43,12 @@ This project uses Machine Learning to classify breast cancer tumors as **Benign*
 
 ## Contributors
 
-* Ayomide Ayodele-Soyebo - Model Develeopment, Model Deployment, D&D Team
-* [Teammate Name]
-* [Teammate Name]
+* Ayomide Ayodele-Soyebo (<midesuperbest@gmail.com>) - Model Develeopment, Model Deployment, D&D Team
+* Heba Hamzat (<hamzathebaoyin@gmail.com>) - EDA
+* M'MONI AFUMBA Jason (<afumbajason@gmail.com>) - Model Evaluation
+* Owoeye Olajumoke Prestige (<owoeyejummie@gmail.com>) - Feature Engineering, D&D Team
+* Popoola Eninlaloluwa Sharon (<popoolaeninlaloluwa@gmail.com>) - Feature Engineering
+* Sidiq Abdulkadir Akanbi (<sidiqabdulkadir05@gmail.com>) - EDA
+* Zainab Salman (<zainabadebisi007@gmail.com>) - EDA, Model Training, D&D Team (Research-based Report)
+
+Built as part of the Data Science Capstone Project for the **Awibi Medtech Learning Initiative 2025**.
