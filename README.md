@@ -38,6 +38,6 @@ This project uses Machine Learning to classify breast cancer tumors as **Benign*
 
 ## Contributors
 
-* Ayomide Ayodele-Soyebo - Model Develeopment, Model Deployment, D&D Team
+* Ayomide Ayodele-Soyebo - Model Development, Model Deployment, D&D Team
 * Dabuo Jacob Ngmenlanaa - Model Deployment, Report Editing
 * [Teammate Name]
